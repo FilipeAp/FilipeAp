@@ -21,7 +21,7 @@ Full Stack Student at PROA Institute
 
 #### Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,discord,idea&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,idea&perline=3)](https://skillicons.dev)
 &nbsp;
 &nbsp;
 
@@ -103,7 +103,7 @@ Full Stack Student at PROA Institute
 
 ## 🔗 Contact
 
-[![Contact](https://skillicons.dev/icons?i=linkedin)]([mailto:apolinariofilipe643@gmail.com](https://www.linkedin.com/in/o-filipe-apolinario/))
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/o-filipe-apolinario/)
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:apolinariofilipe643@gmail.com)
 
 ##
@@ -111,5 +111,5 @@ Full Stack Student at PROA Institute
 <div align="center">
 <h3>Visitor Count</h3>
 
-![](https://komarev.com/ghpvc/?username=Joaninnn&color=000000&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=FilipeAp&color=000000&style=flat-square&label=Profile+Views)
 </div>
