@@ -25,3 +25,23 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,discord,idea&perline=3)](https://skillicons.dev)
 &nbsp;
 &nbsp;
+
+## My Skills
+
+#### Main Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,python,react,dart,bots,androidstudio,opencv)](https://skillicons.dev)
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+#### Studying in this moment:
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,swift,mysql,reaction&theme=dark)](https://skillicons.dev)
+
+#### Workstation Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,aws,androidstudio,firebase,gradle,mongodb,figma,discord,idea&perline=3)](https://skillicons.dev)
+&nbsp;
+&nbsp;
