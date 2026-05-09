@@ -1,9 +1,9 @@
-<h1 align="center">Prazer! Me chamo Filipe Apolinário</h1>
-<h3 align="center">Sou um jovem que gosta muito de tecnologia e tenho como objetivo montar sistemas estruturados, eficientes e escaláveis.</h3>
+<h1 align="center">Nice to meet you! My name is Filipe Apolinário</h1>
+<h3 align="center">I am a young person who is very passionate about technology and my goal is to build structured, efficient, and scalable systems.</h3>
 
 <p align="center">
 São Paulo, Brazil <br>
-Estudante Full Stack no Instituto PROA
+Full Stack Student at PROA Institute
 </p>
 
 ## 🛠️My Skills
@@ -65,27 +65,27 @@ Estudante Full Stack no Instituto PROA
   />
 </div>
 
-## 💻 Projetos em Destaque
+## 💻 Featured Projects
 
 <div align="center">
 
 <table>
   <thead>
     <tr>
-      <th>Projeto</th>
-      <th>Descrição</th>
+      <th>Project</th>
+      <th>Description</th>
       <th>Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias/tree/dev"><strong>🌟Suspiro News</strong></a> · <a href="https://ismaiaradasilvavieira04-droid.github.io/Projeto-UC1-Site-De-Noticias/Home/home.html">▶ Demontração</a></td>
-      <td>Site dedicado a compartilhar notícias positivas do mundo, com o objetivo de trazer mais esperança, inspiração e equilíbrio em meio ao grande volume de notícias negativas presentes no cotidiano.</td>
+      <td><a href="https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias/tree/dev"><strong>🌟Suspiro News</strong></a> · <a href="https://ismaiaradasilvavieira04-droid.github.io/Projeto-UC1-Site-De-Noticias/Home/home.html">▶ Demonstration</a></td>
+      <td>A site dedicated to sharing positive news from around the world, with the goal of bringing more hope, inspiration, and balance amidst the large volume of negative news present in everyday life.</td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EuAndersonDev/LentesDoTempo"><strong>📸Lentes do Tempo</strong></a> · <a href="https://lentesdotempo.vercel.app/">▶ Demontração</a></td>
-      <td>Projeto sobre revitalização histórica e criação de experiências imersivas, recriando estruturas que já existiram ou existem e estão atualmente avariadas.</td>
+      <td><a href="https://github.com/EuAndersonDev/LentesDoTempo"><strong>📸Lentes do Tempo</strong></a> · <a href="https://lentesdotempo.vercel.app/">▶ Demonstration</a></td>
+      <td>A project focused on historical revitalization and the creation of immersive experiences, recreating structures that once existed or currently exist but are damaged.</td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
   </tbody>
