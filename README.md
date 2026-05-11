@@ -1,12 +1,14 @@
-<h1 align="center">Nice to meet you! My name is Filipe Apolinário</h1>
-<h3 align="center">I am a young person who is very passionate about technology and my goal is to build structured, efficient, and scalable systems.</h3>
+<h1 align="center">Prazer! Me chamo Filipe Apolinário</h1>
+<h3 align="center">Sou um jovem que gosta muito de tecnologia e tenho como objetivo montar sistemas estruturados, eficientes e escaláveis.</h3>
 
 <p align="center">
-São Paulo, Brazil <br>
-Full Stack Student at PROA Institute
+São Paulo, Brasil <br />
+Aluno Full Stack no Instituto PROA
 </p>
 
-[![View English Version]](README-ing.md)
+<div aligh="center">
+  [View English Version](README-ing.md)
+</div>
 
 ## 🛠️My Skills
 
