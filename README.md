@@ -6,9 +6,7 @@ São Paulo, Brasil <br />
 Aluno Full Stack no Instituto PROA
 </p>
 
-<div aligh="center">
-  [View English Version](README-ing.md)
-</div>
+[View English Version](README-ing.md)
 
 ## 🛠️My Skills
 
