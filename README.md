@@ -6,7 +6,9 @@ São Paulo, Brasil <br />
 Aluno Full Stack no Instituto PROA
 </p>
 
-<a href="README-ing.md"><img src="https://img.shields.io/badge/just%20the%20message-3d539f" alt="View English Version"/></a>
+<div align="center">
+  <a href="README-ing.md"><img src="https://img.shields.io/badge/View%20English%20Version-3d539f" alt="View English Version"/></a>
+</div>
 
 ## 🛠️My Skills
 
