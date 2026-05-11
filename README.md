@@ -6,6 +6,8 @@ São Paulo, Brazil <br>
 Full Stack Student at PROA Institute
 </p>
 
+[![View English Version]](README-ing.md)
+
 ## 🛠️My Skills
 
 #### Main Stack:
