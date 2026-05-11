@@ -6,7 +6,7 @@ São Paulo, Brasil <br />
 Aluno Full Stack no Instituto PROA
 </p>
 
-[View English Version](README-ing.md)
+<a href="README-ing.md"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="View English Version"/></a>
 
 ## 🛠️My Skills
 
