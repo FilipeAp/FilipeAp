@@ -115,5 +115,5 @@ Aluno Full Stack no Instituto PROA
 <div align="center">
 <h3>Contagem de visitantes</h3>
 
-![](https://komarev.com/ghpvc/?username=FilipeAp&color=000000&style=flat-square&label=visualizações+de+perfil)
+![](https://komarev.com/ghpvc/?username=FilipeAp&color=000000&style=flat-square&label=Visualizações+de+Perfil)
 </div>
