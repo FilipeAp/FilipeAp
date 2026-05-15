@@ -83,13 +83,13 @@ Aluno Full Stack no Instituto PROA
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias/tree/dev"><strong>🌟Suspiro News</strong></a> · <a href="https://ismaiaradasilvavieira04-droid.github.io/Projeto-UC1-Site-De-Noticias/Home/home.html">▶ Demonstration</a></td>
-      <td>A site dedicated to sharing positive news from around the world, with the goal of bringing more hope, inspiration, and balance amidst the large volume of negative news present in everyday life.</td>
+      <td><a href="https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias/tree/dev"><strong>🌟Suspiro News</strong></a> · <a href="https://ismaiaradasilvavieira04-droid.github.io/Projeto-UC1-Site-De-Noticias/Home/home.html">▶ Demonstração </a></td>
+      <td>Site dedicado a compartilhar notícias positivas do mundo, com o objetivo de trazer mais esperança, inspiração e equilíbrio em meio ao grande volume de notícias negativas presentes no cotidiano.</td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EuAndersonDev/LentesDoTempo"><strong>📸Lentes do Tempo</strong></a> · <a href="https://lentesdotempo.vercel.app/">▶ Demonstration</a></td>
-      <td>A project focused on historical revitalization and the creation of immersive experiences, recreating structures that once existed or currently exist but are damaged.</td>
+      <td><a href="https://github.com/EuAndersonDev/LentesDoTempo"><strong>📸Lentes do Tempo</strong></a> · <a href="https://lentesdotempo.vercel.app/">▶ Demonstração</a></td>
+      <td>Projeto sobre revitalização histórica e criação de experiências imersivas, recriando estruturas que já existiram ou existem e estão atualmente avariadas.</td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
   </tbody>
@@ -97,7 +97,7 @@ Aluno Full Stack no Instituto PROA
 
 </div>
 
-## 🧠Random Dev Quote
+## 🧠Citação de desenvolvedor
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Aluno Full Stack no Instituto PROA
 
 </div>
 
-## 🔗 Contact
+## 🔗 Contato
 
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/o-filipe-apolinario/)
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:apolinariofilipe643@gmail.com)
@@ -113,7 +113,7 @@ Aluno Full Stack no Instituto PROA
 ##
 
 <div align="center">
-<h3>Visitor Count</h3>
+<h3>Contagem de visitantes</h3>
 
 ![](https://komarev.com/ghpvc/?username=FilipeAp&color=000000&style=flat-square&label=Profile+Views)
 </div>
