@@ -7,7 +7,7 @@ Full Stack Student at PROA Institute
 </p>
 
 <div align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/View%20English%20Version-3d539f" alt="Visualizar versão em Português"/></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Visualizar%versão%20Version-3d539f" alt="Visualizar versão em Português"/></a>
 </div>
 
 ## 🛠️My Skills
