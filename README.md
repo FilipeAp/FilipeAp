@@ -25,7 +25,7 @@ Aluno Full Stack no Instituto PROA
 
 #### Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,idea&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,postman,idea&perline=3)](https://skillicons.dev)
 &nbsp;
 &nbsp;
 
