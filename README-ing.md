@@ -26,7 +26,7 @@ Full Stack Student at PROA Institute
 
 #### Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,idea&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,postman,idea&perline=3)](https://skillicons.dev)
 &nbsp;
 &nbsp;
 
