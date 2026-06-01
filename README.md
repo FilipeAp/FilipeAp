@@ -92,6 +92,11 @@ Aluno Full Stack no Instituto PROA
       <td>Projeto sobre revitalização histórica e criação de experiências imersivas, recriando estruturas que já existiram ou existem e estão atualmente avariadas.</td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/SOPRO-equipe1"><strong>🌬️Sopro</strong></a> · <a href="#">▶ Demonstração</a></td>
+      <td>Dispositivo assistivo com IA que converte sopros em voz/texto para pessoas com afasia e plataforma web para suporte e comercialização.</td>
+      <td>Java, Spring-Boot, Python, C++, tinyML, Javascript, React</td>
+    </tr>
   </tbody>
 </table>
 
