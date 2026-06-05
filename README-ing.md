@@ -93,6 +93,11 @@ Full Stack Student at PROA Institute
       <td>A project focused on historical revitalization and the creation of immersive experiences, recreating structures that once existed or currently exist but are damaged.</td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/SOPRO-equipe1"><strong>🌬️Sopro</strong></a> · <a href="#">▶ Demonstration</a></td>
+      <td>AI-powered assistive device that converts breath sounds into speech/text for people with aphasia, and a web platform for support and marketing.</td>
+      <td>Java, Spring-Boot, Python, C++, tinyML, Javascript, React</td>
+    </tr>
   </tbody>
 </table>
 
