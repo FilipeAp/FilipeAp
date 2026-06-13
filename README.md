@@ -3,7 +3,7 @@
 
 <p align="center">
 São Paulo, Brasil <br />
-Aluno Full Stack no Instituto PROA
+Engenheiro de Softwere em Formação
 </p>
 
 <div align="center">
