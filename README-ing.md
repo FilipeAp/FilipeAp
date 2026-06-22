@@ -3,7 +3,7 @@
 
 <p align="center">
 São Paulo, Brazil <br>
-Full Stack Student at PROA Institute
+Software Engineer in Training
 </p>
 
 <div align="center">
