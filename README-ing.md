@@ -1,5 +1,5 @@
 <h1 align="center">Nice to meet you! My name is Filipe Apolinário</h1>
-<h3 align="center">I am a young person who is very passionate about technology and my goal is to build structured, efficient, and scalable systems.</h3>
+<h3 align="center">I really enjoy technology and my goal is to build structured, efficient, and scalable systems.</h3>
 
 <p align="center">
 São Paulo, Brazil <br>
