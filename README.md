@@ -83,17 +83,12 @@ Engenheiro de Softwere em Formação
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias/tree/dev"><strong>🌟Suspiro News</strong></a> · <a href="https://ismaiaradasilvavieira04-droid.github.io/Projeto-UC1-Site-De-Noticias/Home/home.html">▶ Demonstração </a></td>
-      <td>Site dedicado a compartilhar notícias positivas do mundo, com o objetivo de trazer mais esperança, inspiração e equilíbrio em meio ao grande volume de notícias negativas presentes no cotidiano.</td>
-      <td>HTML5, CSS3, JavaScript</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/EuAndersonDev/LentesDoTempo"><strong>📸Lentes do Tempo</strong></a> · <a href="https://lentesdotempo.vercel.app/">▶ Demonstração</a></td>
       <td>Projeto sobre revitalização histórica e criação de experiências imersivas, recriando estruturas que já existiram ou existem e estão atualmente avariadas.</td>
       <td>HTML5, CSS3, JavaScript</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/SOPRO-equipe1"><strong>🌬️Sopro</strong></a> · <a href="#">▶ Demonstração</a></td>
+      <td><a href="https://github.com/SOPRO-equipe1"><strong>🌬️Sopro</strong></a> · <a href="https://sopro-voz.com.br/">▶ Demonstração</a></td>
       <td>Dispositivo assistivo com IA que converte sopros em voz/texto para pessoas com afasia e plataforma web para suporte e comercialização.</td>
       <td>Java, Spring-Boot, Python, C++, tinyML, Javascript, React</td>
     </tr>
