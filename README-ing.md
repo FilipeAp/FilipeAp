@@ -84,11 +84,6 @@ Software Engineer in Training
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ismaiaradasilvavieira04-droid/Projeto-UC1-Site-De-Noticias/tree/dev"><strong>🌟Suspiro News</strong></a> · <a href="https://ismaiaradasilvavieira04-droid.github.io/Projeto-UC1-Site-De-Noticias/Home/home.html">▶ Demonstration</a></td>
-      <td>A site dedicated to sharing positive news from around the world, with the goal of bringing more hope, inspiration, and balance amidst the large volume of negative news present in everyday life.</td>
-      <td>HTML5, CSS3, JavaScript</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/EuAndersonDev/LentesDoTempo"><strong>📸Lentes do Tempo</strong></a> · <a href="https://lentesdotempo.vercel.app/">▶ Demonstration</a></td>
       <td>A project focused on historical revitalization and the creation of immersive experiences, recreating structures that once existed or currently exist but are damaged.</td>
       <td>HTML5, CSS3, JavaScript</td>
